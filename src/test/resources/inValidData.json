@@ -1,0 +1,7 @@
+{
+  "empty": "",
+  "name": "test",
+  "numbers": "1234",
+  "invalidemail": "test@",
+  "specialchar": "@_$%"
+}
